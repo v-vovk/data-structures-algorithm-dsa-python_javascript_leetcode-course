@@ -53,3 +53,12 @@ Welcome to the 25 Days DSA (Data Structures and Algorithms) Challenge! This chal
 ---
 
 Good luck with your challenge, and don't forget to commit your progress daily!
+
+---
+
+## Resources
+
+- [Big O Notation of common operations on arrays](Section\_1\:_Day\_1\:_Arrays\_Data\_Structures\_and\_Algorithms/DS\_arrays.md)
+
+
+
