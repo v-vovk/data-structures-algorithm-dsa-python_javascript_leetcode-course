@@ -58,7 +58,7 @@ Good luck with your challenge, and don't forget to commit your progress daily!
 
 ## Resources
 
-- [Big O Notation of common operations on arrays](Section_1:_Day_1:_Arrays_Data_Structures_and_Algorithms/DS_arrays.md)
+- [Big O Notation of common operations on arrays](./Section_1:_Day_1:_Arrays_Data_Structures_and_Algorithms/DS_arrays.md)
 
 
 
