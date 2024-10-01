@@ -14,7 +14,7 @@ Welcome to the 25 Days DSA (Data Structures and Algorithms) Challenge! This chal
 
 - [x] **Day 1:** Arrays
 - [x] **Day 2:** Arrays
-- [ ] **Day 3:** Hash Tables
+- [x] **Day 3:** Hash Tables
 - [ ] **Day 4:** Recursion
 - [ ] **Day 5:** Recursion
 
